@@ -1,0 +1,3 @@
+Input: To gather user input, the "Recipe Finder" React application uses a variety of components.  During user interaction, recipe details such as name, ingredients, and instructions are entered into input boxes within the user interface. 
+Process: This application uses Axios to communicate with the server and React state methods to handle input.  When a recipe is added or modified by the user, the input data is extracted from UI elements and stored in the React state. 
+Output: The program's outputs are messages and visual representations.  Recipe compilations and details are shown to users in the user interface.
